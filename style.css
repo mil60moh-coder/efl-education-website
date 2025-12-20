@@ -1,1 +1,29 @@
+/* Fonts */
+body {
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  background-color: #f9fafb;
+  color: #1f2933;
+}
+
+h1, h2, h3, h4 {
+  font-family: Fira, Roboto, Segoe, sans-serif;
+  color: #2b7a78;
+}
+
+.section-alt {
+  background-color: #edf2f7;
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+a {
+  color: #f4a261;
+}
+
+main {
+  background-color: white;
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
 
