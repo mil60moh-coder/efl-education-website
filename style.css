@@ -26,3 +26,22 @@ main {
   max-width: 900px;
   margin: auto;
 }
+.core-principle {
+  background-color: #edf2f7;   /* soft grey-blue */
+  border-left: 5px solid #f4a261; /* orange accent */
+  padding: 1rem 1.25rem;
+  margin: 2rem 0;
+  border-radius: 6px;
+}
+
+.core-principle h3 {
+  margin-top: 0;
+  color: #2b7a78; /* blue-green heading */
+  font-family: "Fira Sans", "Roboto", "Segoe UI", Arial, sans-serif;
+}
+
+.core-principle p {
+  margin-bottom: 0;
+  font-size: 0.95rem;
+}
+
